@@ -19,7 +19,7 @@
 - [Release Notes](#release-notes)
 - [License](#license)
 
-## What Is MindSpore
+## What Is MindSpore 
 
 MindSpore is a new open source deep learning training/inference framework that
 could be used for mobile, edge and cloud scenarios. MindSpore is designed to
